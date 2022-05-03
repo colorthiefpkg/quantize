@@ -7,7 +7,7 @@ Node.js module for color quantization, based on Leptonica.
 Install
 -------
 
-	npm install quantize
+	npm install @colorthief/quantize
 
 Quick Overview
 --------------
@@ -15,7 +15,7 @@ Quick Overview
 ### Usage
 
 `````javascript
-var quantize = require('quantize');
+var quantize = require('@colorthief/quantize');
 
 var arrayOfPixels = [[190,197,190], [202,204,200], [207,214,210], [211,214,211], [205,207,207]];
 var maximumColorCount = 4;
