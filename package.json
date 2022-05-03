@@ -1,6 +1,6 @@
 {
     "name": "@colorthief/quantize",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "A node.js module for color quantization, based on Leptonica.",
     "homepage": "https://github.com/colorthiefpkg/quantize",
     "author": "Olivier Lesnicki (https://github.com/olivierlesnicki)",
@@ -11,8 +11,8 @@
         "node"
     ],
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/colorthiefpkg/quantize.git"
+        "type": "git",
+        "url": "git+https://github.com/colorthiefpkg/quantize.git"
     },
     "contributors": [
         "Nick Rabinowitz (https://github.com/nrabinowitz)",
